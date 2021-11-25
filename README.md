@@ -11,4 +11,4 @@ This web app has been deployed to [Heroku](https://devcenter.heroku.com/).
 
 <br>
 
-![img](https://user-images.githubusercontent.com/87442098/143444721-8aa59a14-14b0-484e-b40c-14ebbcfed5ad.jpg)
+![img](https://user-images.githubusercontent.com/87442098/143489350-1fb92d10-6ae1-4692-9530-e3a50664a8f9.jpg)
